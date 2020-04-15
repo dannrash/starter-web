@@ -1,2 +1,4 @@
 echo hello !
-import hello
+
+set date=today
+print ("hello world!")

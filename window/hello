@@ -2,3 +2,4 @@ echo hello !
 
 set date=today
 print ("hello world!")
+test

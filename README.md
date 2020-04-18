@@ -7,7 +7,9 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 more changes
 blaaaaa
+more purpose
 
 ## Deployment
 
 1. move to your web server and run
+2. blaa blu

@@ -13,3 +13,7 @@ more purpose
 
 1. move to your web server and run
 2. blaa blu
+
+##Copright
+
+Daniel 2019 copyright notice
